@@ -122,4 +122,4 @@ l1 = line(p1, p2)
 l2 = line(p2, p3)
 print(l1.angleBetweenLinesInDegrees(l0))
 print(l1.angleBetweenLinesInRadians(l0))
-
+print(l2.angleBetweenLinesInDegrees(l2))
